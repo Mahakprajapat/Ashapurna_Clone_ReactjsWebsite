@@ -1,3 +1,13 @@
+# Description: 
+
+Utilizing a desktop-centric design approach, \
+the website is tailored to provide an optimal viewing experience on laptop and desktop screens.
+
+It also have feature like CRUD Operation
+And API based 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+

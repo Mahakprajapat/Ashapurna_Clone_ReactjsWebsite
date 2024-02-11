@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+.header{
+    /* position: fixed !important; */
+    z-index: 99999;
+}
+.navbar-brand img{
+    height: 120px;
+    position: absolute;
+    top: 2%;
+}
+.nav-item:hover .dropdown-menu{
+    display: block;
+}
+
+.nav-link{
+    color: #32343b;
+    padding: 20px 0;
+    margin-left: 30px;
+    margin-right: 0;
+    position: relative;
+}
+.active{
+    color: #be8553!important; 
+    border-bottom: 1px solid #be8553!important;
+}
+.enquiryBtn{
+    height: 50px;
+    border: 1px solid transparent;
+    background-color: #be8553!important;
+    color: #fff;
+}
+ .dropdown-menu:before {
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 12px solid #be8553;
+    top: -18px;
+    left: 30px;
+    transform: rotate(-90deg);
+    position: absolute;
+    content: "";
+    
+
+}
+.dropdown-menu{
+    border-radius: 0%;
+    padding: 10px;
+    border-bottom: 3px solid #be8553;
+    border-top: 3px solid #be8553;
+
+}

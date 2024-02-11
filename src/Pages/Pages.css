@@ -1,0 +1,361 @@
+/* home-page */
+.circlearrow{
+    position: fixed;
+    bottom: 10px;
+    right: 15px;
+    font-size: 35px;
+    z-index: 9999999;
+}
+
+/* slider form */
+.sliderform{
+    border-bottom: 7px solid #be8553;
+}
+/* home-about-section */
+.aboutusright{
+    padding-top: 8%;
+    padding-left: 4%;
+    /* padding-bottom: 220px; */
+}
+.subtitle{
+    color: #be8553!important;
+}
+.subtitle:after{
+    width: 80px;
+    border-top: 1px solid #be8553;
+    content: "";
+    position: absolute;
+    right: -82px;
+    top: 11px;
+}
+.aboutusfeature{
+    position: absolute;
+    width: 990px;
+    right: 5px;
+    bottom: -200px;
+    background-color: #f4efeb;
+}
+.whyashapurnasection{
+    background-color: #f4efeb;
+    height: 500px;
+}
+.whyashapurna-block{
+    padding: 30px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 20px rgba(0,0,0,.1);
+    border-bottom: 7px solid #be8553;
+}
+.underline{
+    width: 110px;
+    height: 0;
+    border: 1px solid #be8553;
+}
+.golden-color{
+    color: #be8553;
+}
+.whyashapurna-blockmain{
+    position: absolute;
+    left: 20px;
+    top: 40px;
+}
+.whyashapurna-block:hover {
+    background-color: rgb(56, 52, 52);
+    color:white;
+}
+/* our work section */
+.ourworksection{
+    margin-top: 230px;
+    padding-bottom: 30px;
+}
+.workright{
+    display: inline;
+}
+
+.workingcolimg{
+    position: absolute;
+    left: 0px;
+}
+.btnourwork{
+    height: 40px;
+    border: 1px solid transparent;
+    background-color: #be8553!important;
+    color: #fff;
+}
+
+/* project-overview-section */
+.projectoverviewbg{
+    background: url(../image/whyashapurna-bg.webp);
+    /* height: 700px; */
+}
+.projectimage {
+    width:400px;
+    /* height: 259px; */
+    border: 7px solid white;   
+    
+}
+.projectblockinner{
+    position: relative;
+}
+.projectimageheading{
+    display: flex;
+    flex-direction: row;
+    width: 340px;
+    /* height: 120px; */
+    position: absolute;
+    left: 9%;
+    bottom: -9% ;
+    /* left: 9%;
+    bottom: -315%; */
+    transition: 0.5s;  
+}
+
+.projectinnerbtn{
+    background: #062f43;
+    margin: 5px;
+    padding: 3px 10px;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px ;
+}
+.projectimageheading p{
+    font-size: 14px;
+    padding: 2px;
+}
+.projectimageheading .projectbottom{
+    display: none;
+}
+.projectimageheading:hover .projectbottom{
+    display: block;
+}
+/* testimonials-section */
+.testimonialsslider{
+    margin: auto;
+    margin-top: 150px;
+    width: 750px;
+    background-color: white;
+    padding: 30px;
+}
+.testimonialsimg{
+    top: -90px;
+    right: 20px;
+    
+}
+.testimonialsimg img{
+    border: 5px solid #be8553;
+    border-radius: 50%;
+}
+
+/* ----------------------------------about-page--------------------------- */
+.aboutbgimg{
+    background: url("../image/team-banner.webp");
+    padding: 110px 0;
+    /* margin-top: 76px; */
+    background-size: cover;
+}
+.bgheading{
+    text-align: center;
+}
+.bgaboutrowimg{
+    background: url("../image/aboutmain-features-bg-new.png");
+    background-size: cover;
+}
+.visionsectionbg{
+    background: url("../image/mission-vision-bg.png");
+    background-size: 100%;
+    padding: 80px 0px 8px 0px;
+    position: relative;
+    height: 220px;
+}
+/* .visionposition{
+    position: absolute;
+   right: 1%;
+    
+} */
+.visionunderline:after{
+    width: 120px;
+    height: 3px;
+    position:absolute;
+    background:  black;
+    top:26px;
+    left:1px;
+    content: "";
+}
+.achieveborder{
+    border-bottom: 7px solid  #be8553 ;
+    border-right: 7px solid  #be8553  ;
+}
+.postionachieve{
+    position: absolute;
+    bottom:-262%;
+    /* bottom: -50px; */
+    right: 5%;
+}
+.achievementbg{
+    margin-top: 150px;
+}
+/* -----------------------our-journeypage--------- */
+.postionjourney{
+    position: absolute;
+    top: 600px;
+    right: 30px;
+}
+.journeyborder{
+    border-bottom: 7px solid  #be8553 ;
+
+}
+.directorimg{
+    border-radius: 50%;
+    border: 10px solid #062f43;;
+}
+.csrdiv {
+    /* margin: auto; */
+    overflow: hidden;
+}
+.csrimage{
+    /* margin-left: 150px; */
+
+    transition: 2s;
+    overflow: hidden;
+}
+.socialdiv{
+    overflow: hidden;
+    border: 1px solid black;
+    border-radius: 1%;
+}
+.csrimage:hover{
+    transform: scale(1.1);
+}
+.socialimg{
+    
+    transition: 2s;
+    overflow: hidden;
+}
+.socialimg:hover{
+    transform: scale(1.1);
+}
+.socialbtn{
+    background-color: #be8553;
+    border: none;
+    
+}
+.demo{
+    margin-top: 20px!important;
+}
+
+/* nri form */
+.nriform{
+    /* margin-left: 5px; */
+    padding: 0px 40px;
+    border-left: 5px solid #be8553;
+    
+}
+
+input[type=text], input[type=email], input[type=password], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #be8553;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 40%;
+}
+
+input[type=submit]:hover {
+    background-color: white;
+    color: #be8553;
+    border: 2px solid #be8553;
+}
+
+.containerform {
+    border-radius: 5px;
+    /* background-color: #f2f2f2; */
+    padding: 20px;
+}
+
+.error {
+  display: block;
+  margin-bottom: 10px;
+  color: red;
+}
+
+.WHYINJODHPURimg{
+    border: 7px solid white;
+
+}
+.contactcol{
+    background-color: #be8553;
+}
+
+/* rentalproject */
+.projectimageheading2{
+    display: flex;
+    flex-direction: row;
+    width: 340px;
+    /* height: 120px; */
+    position: absolute;
+    left: 16%;
+    bottom: -10% ;
+    transition: 0.5s;  
+}
+/* .projectinnerbtn{
+    background: #062f43;
+    margin: 5px;
+    padding: 3px 10px;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px ;
+} */
+.projectimageheading2 p{
+    font-size: 14px;
+    padding: 2px;
+}
+.projectimageheading2 .projectbottom{
+    display: none;
+}
+.projectimageheading2:hover .projectbottom{
+    display: block;
+}
+/* residential project page*/
+
+ .projects-nav ul li Link.active,  .projects-nav ul li Link:hover {
+    color: #be8553!important;
+    border-color: #be8553!important;
+}
+.projects-nav ul li a {
+    height: 44px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    transition: all .2s;
+    cursor: pointer;
+    color: black;
+}
+.projectimage2{
+    width: 415px;
+    /* height: 259px; */
+    border: 7px solid white;
+}
+/* our work slider button */
+/* .ashapurnaProjects-main .ashapurnaProjects-slider .slick-dots li button {
+    width: 12px!important;
+    height: 12px!important;
+    border-radius: 6px!important;
+    background: #ac7442!important;
+}
+
+.ashapurnaBusiness-main .tab-content .slick-dots li button {
+    width: 25px!important;
+    height: 10px!important;
+    border-radius: 4px!important;
+    background: #ac7442!important;
+} */
