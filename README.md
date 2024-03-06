@@ -6,7 +6,7 @@ the website is tailored to provide an optimal viewing experience on laptop and d
 It also have feature like CRUD Operation
 And API based 
 
-firebase Link:- 
+firebase Link:-
 [Link](ashapurnaclone.web.app)
 
 
