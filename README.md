@@ -10,6 +10,23 @@ firebase Link:-
 [Link](ashapurnaclone.web.app)
 
 
+#images
+home page silder
+![Screenshot 2024-01-10 120247](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/1d4c14a6-111e-476f-85a0-a62d1cd68150)
+
+
+
+![Screenshot 2024-01-10 115842](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/92e39793-c1aa-4cfd-9391-bce393ee924d)
+
+
+CURD Operation
+![Screenshot 2024-01-10 115732](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/fb935a99-9283-47e2-98dd-abf8bd57ce44)
+
+
+
+![Screenshot 2024-01-10 120006](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/7514f973-ab5e-4c17-89c3-e7622618e94b)
+
+
 
 # Getting Started with Create React App
 
@@ -51,25 +68,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-#images
-home page silder
-![Screenshot 2024-01-10 120247](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/1d4c14a6-111e-476f-85a0-a62d1cd68150)
-
-
-
-![Screenshot 2024-01-10 115842](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/92e39793-c1aa-4cfd-9391-bce393ee924d)
-
-
-CURD Operation
-![Screenshot 2024-01-10 115732](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/fb935a99-9283-47e2-98dd-abf8bd57ce44)
-
-
-
-![Screenshot 2024-01-10 120006](https://github.com/Mahakprajapat/Ashapurna_Clone_ReactjsWebsite/assets/147261796/7514f973-ab5e-4c17-89c3-e7622618e94b)
-
-
-
 
 
 ## Learn More
